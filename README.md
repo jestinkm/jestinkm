@@ -29,10 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jestinkm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jestinkm&show_icons=true&theme=tokyonight" />
 </p>
-
----
 
 ## 🔥 Streak
 
@@ -45,7 +43,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=algolia&no-frame=true&column=6" />
 </p>
 
 ---
