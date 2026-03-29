@@ -50,3 +50,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jestinkm&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jestinkm/jestinkm/output/github-contribution-grid-snake.svg" />
+</p>
