@@ -45,9 +45,8 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=algolia"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
-
 ---
 
 ## 👀 Visitors
