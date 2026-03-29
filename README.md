@@ -42,12 +42,9 @@
 
 ## 🏆 Trophies
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=onedark&no-frame=true&margin-w=15&v=1" />
+  <img src="https://images.weserv.nl/?url=github-profile-trophy.vercel.app/?username=jestinkm&theme=onedark&no-frame=true&margin-w=15" />
 </p>
----
-
 ## 👀 Visitors
 
 <p align="center">
