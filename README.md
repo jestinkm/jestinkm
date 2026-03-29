@@ -41,8 +41,10 @@
 ---
 
 ## 🏆 Trophies
+<p align="center">
+  <img src="trophy.png"  width="100"/>
+</p>
 
-<img src="trophy.png" width="300"/>
 ## 👀 Visitors
 
 <p align="center">
