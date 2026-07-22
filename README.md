@@ -35,6 +35,11 @@
 - 🏊 When I'm not coding, you'll find me swimming
 - 🗣️ Tamil (Native) | English (Fluent)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Code%20Bind%20Technology-Intern%202024-1a1a2e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Imagivite%20Technology-Intern-1a1a2e?style=flat-square"/>
+</p>
+
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:FF00E4&height=4&width=100%" width="100%"/>
@@ -55,11 +60,38 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔐 **AI-Based Secure File Access System** | A secure file access system with authentication and controlled data-access mechanisms. |
-| 🛒 **E-Commerce Website** | A full-featured e-commerce platform with integrated Razorpay payments. |
-| 🏦 **Bank Management System** | A Java-based banking system built with OOP concepts and the Collections Framework. |
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="26%">Project</th>
+    <th align="center" width="44%">Description</th>
+    <th align="center" width="30%">Tech Used</th>
+  </tr>
+  <tr>
+    <td align="center">🔐 <b>AI-Based Secure File Access System</b></td>
+    <td align="left">Secure file access system with authentication and controlled data-access mechanisms.</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🛒 <b>E-Commerce Website</b></td>
+    <td align="left">Full-featured e-commerce platform with integrated Razorpay payments.</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🏦 <b>Bank Management System</b></td>
+    <td align="left">Java-based banking system built with OOP concepts and the Collections Framework.</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/OOP-black?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=4&width=100%" width="100%"/>
 
@@ -156,6 +188,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jestin-mk-8a403a323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kmjestin25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:8608067217"><img src="https://img.shields.io/badge/Phone-8608067217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Jestinkm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/jestin25"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
