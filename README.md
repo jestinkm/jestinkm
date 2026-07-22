@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Jestin M K 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A5ACD,100:FF00E4&height=220&section=header&text=Jestin%20M%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Flutter%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
 <h3 align="center">💻 Full Stack Developer | ☕ Java & Spring Boot | 📱 Flutter Developer | 🤖 AI Enthusiast</h3>
 
@@ -17,9 +19,11 @@
   <a href="https://www.codechef.com/users/jestin25"><img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=4&width=100%" width="100%"/>
 
 ### 🌌 About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260">
 
 - 🎓 B.E. Computer Science and Engineering @ KSR Institute of Engineering and Technology
 - 🚀 Passionate and versatile developer — full stack, mobile, and cloud
@@ -31,7 +35,9 @@
 - 🏊 When I'm not coding, you'll find me swimming
 - 🗣️ Tamil (Native) | English (Fluent)
 
----
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:FF00E4&height=4&width=100%" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -45,7 +51,7 @@
   <img src="https://img.shields.io/badge/API%20Development-REST-blue?style=flat-square"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E4,100:00F7FF&height=4&width=100%" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -55,13 +61,49 @@
 | 🛒 **E-Commerce Website** | A full-featured e-commerce platform with integrated Razorpay payments. |
 | 🏦 **Bank Management System** | A Java-based banking system built with OOP concepts and the Collections Framework. |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=4&width=100%" width="100%"/>
 
 ### 📈 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-Weekly%20Contests%3A%203★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeChef-DSA%20Contests%3A%203★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-3★%20(Div%202)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef%20Rating-1718-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA%20Rating-1825-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
+
+<table align="center">
+  <tr>
+    <th align="center">🏅 CodeChef Rating</th>
+    <th align="center">🧩 DSA Rating</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>1718</b> (3★, Div 2)<br/>
+      Global Rank: <b>7123</b><br/>
+      Country Rank: <b>6327</b>
+    </td>
+    <td align="center">
+      <b>1825</b> (provisional)<br/>
+      Global Rank: <b>282</b><br/>
+      Country Rank: <b>272</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  🔥 <b>10</b> rated contests participated &nbsp;|&nbsp; 🧠 <b>74</b> problems solved &nbsp;|&nbsp; ⚡ <b>2</b> DSA Monday challenges
+</p>
+
+<p align="center">
+  <img src="https://cdn.codechef.com/images/badges/contest/bronze.svg" width="70" title="Contest Contender - Bronze"/>
+  <img src="https://cdn.codechef.com/images/badges/problem/bronze.svg" width="70" title="Problem Solver - Bronze"/>
+</p>
+<p align="center"><sub>🏆 Contest Contender (Bronze) — 5 contests &nbsp;|&nbsp; 🏆 Problem Solver (Bronze) — 50 problems solved</sub></p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/jestin25">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=jestin25&theme=dark" alt="CodeChef Stats"/>
+  </a>
 </p>
 
 <p align="center">
@@ -70,13 +112,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.codechef.com/users/jestin25">
-    <img src="https://codechef-readme-stats.vercel.app/api/card?username=jestin25&theme=dark" alt="CodeChef Stats"/>
-  </a>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:FF00E4&height=4&width=100%" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -89,7 +125,11 @@
   <img src="https://streak-stats.demolab.com?user=jestinkm&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jestinkm&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E4,100:00F7FF&height=4&width=100%" width="100%"/>
 
 ### 🏆 Trophies
 
@@ -97,7 +137,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jestinkm&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A5ACD&height=4&width=100%" width="100%"/>
 
 ### 🐍 Contribution Snake
 
@@ -105,7 +145,11 @@
   <img src="https://raw.githubusercontent.com/jestinkm/jestinkm/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:FF00E4&height=4&width=100%" width="100%"/>
 
 ### 🌐 Connect with Me
 
@@ -121,3 +165,7 @@
 </p>
 
 <p align="center"><i>🚀 Thanks for stopping by — always open to collaborating on cool full-stack & AI projects!</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E4,50:6A5ACD,100:00F7FF&height=120&section=footer" width="100%"/>
+</p>
