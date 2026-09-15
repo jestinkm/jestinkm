@@ -118,7 +118,7 @@ Cross-platform Flutter application with Firebase backend.
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-650%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
 
 ### 🟠 LeetCode
