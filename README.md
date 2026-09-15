@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LeetCode-650%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/jestin25">
-    <img src="https://img.shields.io/badge/CodeChef-3★%20Competitive%20Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-4★%20Competitive%20Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
