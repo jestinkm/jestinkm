@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/jestinkm/jestinkm/main/assets/dev-character.svg" width="640" alt="Animated developer character coding"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00F7FF?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-8A2BE2?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=8A2BE2" />
   <img src="https://img.shields.io/badge/Batch-2027-FF00E4?style=for-the-badge&labelColor=0d1117&logo=graduation-cap&logoColor=FF00E4" />
@@ -65,6 +69,58 @@ public class Jestin {
 <td align="center" width="25%">🤝<br/><b>Open to</b><br/>Internships, jobs &amp; collabs</td>
 </tr>
 </table>
+
+---
+
+## 🎮 Developer Character Sheet
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLASS-Full%20Stack%20Mage-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LEVEL-Final%20Year-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GUILD-KSR%20Institute-FF00E4?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MOUNT-Mechanical%20Keyboard-FFA116?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**⚔️ Attributes**
+
+<img src="https://progress-bar.dev/92/?title=Java&width=320&color=6A5ACD"/><br/>
+<img src="https://progress-bar.dev/88/?title=DSA&width=320&color=00F7FF"/><br/>
+<img src="https://progress-bar.dev/85/?title=Spring%20Boot&width=320&color=8A2BE2"/><br/>
+<img src="https://progress-bar.dev/82/?title=Flutter&width=320&color=02569B"/><br/>
+<img src="https://progress-bar.dev/80/?title=React%20%2B%20Node&width=320&color=FF00E4"/><br/>
+<img src="https://progress-bar.dev/70/?title=AI%20%2F%20ML&width=320&color=FFA116"/>
+
+</td>
+<td width="50%">
+
+**🎒 Inventory**
+
+- 🗡️ **Weapon:** Java &amp; Spring Boot
+- 🛡️ **Armor:** Git &amp; GitHub
+- 🧪 **Potion:** Coffee, unlimited refills
+- 📜 **Spellbook:** DSA &amp; System Design
+- 🧿 **Artifact:** Face-auth &amp; deepfake detection
+- 🏅 **Titles:** AI-REXA 26 Champion, NOVITAS 2K26 Runner-up
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗺️ Active Quests
+
+| Quest | Type | Status |
+|-------|------|--------|
+| 🔐 AI-powered secure systems | Main quest | ![](https://img.shields.io/badge/In%20Progress-00F7FF?style=flat-square) |
+| 🕵️ Deepfake detection app | Main quest | ![](https://img.shields.io/badge/In%20Progress-00F7FF?style=flat-square) |
+| 📱 Flutter apps with Firebase | Side quest | ![](https://img.shields.io/badge/Ongoing-8A2BE2?style=flat-square) |
+| 🧩 Reach 1000 LeetCode problems | Grind | ![](https://img.shields.io/badge/650%2B%20Done-FFA116?style=flat-square) |
+| ⭐ Push CodeChef to 5★ | Boss fight | ![](https://img.shields.io/badge/Loading...-FF00E4?style=flat-square) |
 
 ---
 
@@ -219,6 +275,45 @@ timeline
 
 ---
 
+## ⚡ Fun Facts
+
+<table align="center">
+<tr>
+<td align="center" width="25%">🌊<br/><b>Swimmer</b><br/>Debug in the pool, deploy on land</td>
+<td align="center" width="25%">☕<br/><b>Fuel</b><br/>Coffee → Code → Commit</td>
+<td align="center" width="25%">🏁<br/><b>Contest mode</b><br/>Timer on, brain on</td>
+<td align="center" width="25%">🧠<br/><b>Mindset</b><br/>Ship, learn, repeat</td>
+</tr>
+</table>
+
+---
+
+## 🔁 A Day in the Life
+
+```mermaid
+flowchart LR
+    A[☕ Wake up] --> B[🧩 Solve a DSA problem]
+    B --> C[💻 Build features]
+    C --> D[🐞 Debug]
+    D --> E[🚀 Commit and push]
+    E --> F[🌊 Swim or rest]
+    F --> A
+```
+
+---
+
+## 🧬 Developer Philosophy
+
+```js
+const jestin = {
+  believes: ["Clean code beats clever code", "Ship early, improve daily", "Every bug is a lesson"],
+  motto: () => "Always learning, always building",
+  nextMove: async () => await buildSomethingUseful(),
+};
+```
+
+---
+
 ## 💬 Dev Quote of the Moment
 
 <p align="center">
@@ -238,6 +333,12 @@ timeline
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF00E4&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+together+%F0%9F%9A%80;Open+to+Full+Stack%2C+Flutter+%26+AI+collaborations" />
+</p>
+
+<p align="center">
+  <a href="mailto:kmjestin25@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me%20%7C%20Let's%20Collaborate-FF00E4?style=for-the-badge&labelColor=0d1117"/>
+  </a>
 </p>
 
 <p align="center">
